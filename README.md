@@ -5,7 +5,7 @@ srun3000 client in python
 
 powered by [Requests](http://python-requests.org/)
 
-Thanks lyxint(@ifduyue) for his original version with pycurl 
+Thanks lyxint([@ifduyue](https://github.com/ifduyue/)) for his original version with pycurl 
 
 Known Issue
 ---------
